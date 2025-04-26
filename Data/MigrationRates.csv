@@ -1,0 +1,65 @@
+Transect;Scenario;Scenario_Year;Treeline migration rate 2000Ð2100;PlusMinus
+Taimyr;RCP 2.6*;2100;0.8;0.7
+Taimyr;RCP 2.6*c;2100;3.4;2.9
+Taimyr;RCP 2.6;2100;11.5;2.3
+Taimyr;RCP 2.6c;2100;8.6;1.2
+Taimyr;RCP 4.5;2100;23.4;0.2
+Taimyr;RCP 4.5c;2100;24.7;0.2
+Taimyr;RCP 8.5;2100;29.1;0.5
+Taimyr;RCP 8.5c;2100;28.4;0.4
+Buor Khaya;RCP 2.6*;2100;0.1;0.2
+Buor Khaya;RCP 2.6*c;2100;0;0
+Buor Khaya;RCP 2.6;2100;1;0.3
+Buor Khaya;RCP 2.6c;2100;0.9; 0.6
+Buor Khaya;RCP 4.5;2100;0.6;0.5
+Buor Khaya;RCP 4.5c;2100;0.2;0.1
+Buor Khaya;RCP 8.5;2100;3.2;0
+Buor Khaya;RCP 8.5c;2100;3;0.3
+Kolyma;RCP 2.6*;2100;1.2;0.1
+Kolyma;RCP 2.6*c;2100;1.1;0.2
+Kolyma;RCP 2.6;2100;2.1;0.1
+Kolyma;RCP 2.6c;2100;1.3;0.6
+Kolyma;RCP 4.5;2100;2;0.1
+Kolyma;RCP 4.5c;2100;1.6;0.5
+Kolyma;RCP 8.5;2100;2.2;0.2
+Kolyma;RCP 8.5c;2100;2.2;0.1
+Chukotka;RCP 2.6*;2100;25.1;0.1
+Chukotka;RCP 2.6*c;2100;25.3;0.2
+Chukotka;RCP 2.6;2100;30.8;1
+Chukotka;RCP 2.6c;2100;30.9;0.2
+Chukotka;RCP 4.5;2100;27.2;1.2
+Chukotka;RCP 4.5c;2100;28;0.2
+Chukotka;RCP 8.5;2100;29.1;0.3
+Chukotka;RCP 8.5c;2100;29.2;0.1
+Taimyr;RCP 2.6*;2300;1.5;0.1
+Taimyr;RCP 2.6*c;2300;1.9;0
+Taimyr;RCP 2.6;2300;9;0
+Taimyr;RCP 2.6c;2300;8.6;0.1
+Taimyr;RCP 4.5;2300;10.6;0.1
+Taimyr;RCP 4.5c;2300;11.2;0.1
+Taimyr;RCP 8.5;2300;16.1;0
+Taimyr;RCP 8.5c;2300;16.2;0
+Buor Khaya;RCP 2.6*;2300;0.2;0
+Buor Khaya;RCP 2.6*c;2300;0;0
+Buor Khaya;RCP 2.6;2300;1.1;0
+Buor Khaya;RCP 2.6c;2300;1.2;0.2
+Buor Khaya;RCP 4.5;2300;1.3;0.1
+Buor Khaya;RCP 4.5c;2300;1.2;0.1
+Buor Khaya;RCP 8.5;2300;1.2;0
+Buor Khaya;RCP 8.5c;2300;1.1;0
+Kolyma;RCP 2.6*;2300;0.7;0
+Kolyma;RCP 2.6*c;2300;0.7;0
+Kolyma;RCP 2.6;2300;1.2;0
+Kolyma;RCP 2.6c;2300;1;0.1
+Kolyma;RCP 4.5;2300;1.2;0
+Kolyma;RCP 4.5c;2300;1.2;0
+Kolyma;RCP 8.5;2300;1.2;0
+Kolyma;RCP 8.5c;2300;1.2;0
+Chukotka;RCP 2.6*;2300;8.8;0.1
+Chukotka;RCP 2.6*c;2300;9.2;0.1
+Chukotka;RCP 2.6;2300;11.3;0.2
+Chukotka;RCP 2.6c;2300;11.3;0.2
+Chukotka;RCP 4.5;2300;12;0
+Chukotka;RCP 4.5c;2300;11.9;0.1
+Chukotka;RCP 8.5;2300;19.6;0
+Chukotka;RCP 8.5c;2300;19.7;0

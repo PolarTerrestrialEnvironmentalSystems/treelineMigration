@@ -57,7 +57,7 @@ cavmRast <- stars_cavm %>% st_as_stars(downsample = 1) %>% st_crop(bfr) %>%
                                 col = c("goldenrod1", "orange", "darkred")[x]))
   }
 
-path <- "~/Documents/treelineMigration_rasts"
+path <- "~/Output/"
 rcps <- c('2.6', '4.5', '8.5')
   
 for(rcp in 1:3) {
